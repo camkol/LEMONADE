@@ -3,7 +3,8 @@
   position: absolute;
 }
 
-.banner .slogan, h1 {
+.banner .slogan,
+h1 {
   text-align: center;
   vertical-align: middle;
 }
@@ -43,4 +44,5 @@ h1 {
   font-size: 32px;
   width: 300px;
   height: 300px;
-}/*# sourceMappingURL=main.css.map */
+}
+/*# sourceMappingURL=main.css.map */
